@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.69b16a12.css",
-    "main.js": "/static/js/main.e0bcadd2.js",
+    "main.css": "/static/css/main.c0674855.css",
+    "main.js": "/static/js/main.15417461.js",
     "static/media/CoffeeShop.png": "/static/media/CoffeeShop.76359f22da4bbd300ab0.png",
     "static/media/BlogNews.png": "/static/media/BlogNews.a52e0ce6300eab548b51.png",
     "static/media/Template.png": "/static/media/Template.f18d8696a7a34d2ccf85.png",
     "static/media/Webshop.png": "/static/media/Webshop.5e0059e718eb2eea207a.png",
-    "static/media/Faris-Škulj-CV.pdf": "/static/media/Faris-Škulj-CV.2ccd1dd35da907988b58.pdf",
     "static/media/WeatherApp.png": "/static/media/WeatherApp.a88667d874f12d2017ec.png",
+    "static/media/Faris-Škulj-CV.pdf": "/static/media/Faris-Škulj-CV.f47dff42adabee8668b5.pdf",
     "static/media/fare.jpeg": "/static/media/fare.98320b130190b3c4364b.jpeg",
     "static/media/Paint.png": "/static/media/Paint.c2867ff1e20e82aa845f.png",
+    "static/media/Faris.JPG": "/static/media/Faris.fcb2b547122c6071630e.JPG",
     "index.html": "/index.html",
-    "main.69b16a12.css.map": "/static/css/main.69b16a12.css.map",
-    "main.e0bcadd2.js.map": "/static/js/main.e0bcadd2.js.map"
+    "main.c0674855.css.map": "/static/css/main.c0674855.css.map",
+    "main.15417461.js.map": "/static/js/main.15417461.js.map"
   },
   "entrypoints": [
-    "static/css/main.69b16a12.css",
-    "static/js/main.e0bcadd2.js"
+    "static/css/main.c0674855.css",
+    "static/js/main.15417461.js"
   ]
 }
